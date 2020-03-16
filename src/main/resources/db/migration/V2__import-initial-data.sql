@@ -1,0 +1,1 @@
+INSERT INTO PLAYER (name, age, team, position) VALUES ('猿田　斉', 26, 'ソフトバンク', 'センター');
